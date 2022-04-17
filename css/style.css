@@ -36,19 +36,21 @@ h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 100px;
-  line-height: 61px;
+  line-height: 10px;
   color: #ffffff;
  font-family: "SnellRoundhand BoldScript", sans-serif;
 }
 
 h2 {
-  font-size: 40px;
-  line-height: 50px;
+  font-size: 20px;
+  line-height: 15px;
+  color: #ffffff;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 16px;
   line-height: 30px;
+  color: #ffffff;
 }
 
 p, li, blockquote, label {
